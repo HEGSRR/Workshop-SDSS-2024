@@ -5,10 +5,10 @@ title: Attend
 
 # Fourth Spatial Data Science Symposium
 
-Website:  [sdss2024.spatial-data-science.net](http://sdss2024.spatial-data-science.net/)
-Date: October 23-24, 2024
-Time: t.b.d.
-Location: Virtual
+Website:  [sdss2024.spatial-data-science.net](http://sdss2024.spatial-data-science.net/)  
+Date: October 23-24, 2024  
+Time: t.b.d.  
+Location: Virtual  
 
 ## Expected Participation
 
