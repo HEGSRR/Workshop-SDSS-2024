@@ -1,5 +1,8 @@
 title: How to start teaching replicability in spatial data science courses
-author: "Joseph Holler"
+author: 
+  - "Peter Kedron"
+  - "Joseph Holler"
+  - "Andrew Trgovac"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
