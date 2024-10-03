@@ -5,6 +5,7 @@
 - Open Science Practices - Graph from [2023 SDSS Workshop](https://hegsrr.github.io/Workshop-SDSS-2023/)
 - Education Gap - Moving students to the left on the graph, by building competencies (But which ones, and how?)
 - Two-levels in this workshop (1) Classroom, (2) Curriculum
+- Take home elements
 
 ## Classroom
 ### Introduction
