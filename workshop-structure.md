@@ -44,4 +44,4 @@
 
 ## Notes
 - Create a handout that indexes key ideas and elements
-- 
+- The available reproduction people can use to kick start the class
