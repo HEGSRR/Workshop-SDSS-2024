@@ -1,6 +1,6 @@
 ## Introduction
+- Introductions (Not a Slide)
 - Need Statement
-- Introductions
 - Definition - Focus on the wider, deeper definition of reproducibility
 - Open Science Practices - Graph from [2023 SDSS Workshop](https://hegsrr.github.io/Workshop-SDSS-2023/)
 - Education Gap - Moving students to the left on the graph, by building competencies (But which ones, and how?)
