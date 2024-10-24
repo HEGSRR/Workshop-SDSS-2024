@@ -15,7 +15,7 @@ Follow collections of our work through our [HEGSRR GitHub Organization](https://
 
 ## Video and Slides
 
-- Powerpoint slides to be posted...
+- [Presentation slides](assets/sdss_2024_rrpedaogy_slides.pdf)
 - Video to be posted...
 
 ## Reproduction and Replication Studies
