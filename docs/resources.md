@@ -9,7 +9,7 @@ Follow collections of our work through our [HEGSRR GitHub Organization](https://
 
 - [HEGSRR Research Compendium Template](https://www.github.com/HEGSRR/HEGSRR-Template)
 - [HEGSRR Manual](hegsrr.github.io/HEGSRR-Manual/) (in progress)
-- **Draft** [Competencies Matrix](assets/competencies.xlsx) for spatial data science reproducibility
+- *Draft* [Competencies Matrix](assets/competencies.xlsx) for spatial data science reproducibility
 - Chakraborty 2021 [GitHub Research Compendium](https://github.com/HEGSRR/RPr-Chakraborty-2021), [OSF Project](https://doi.org/10.17605/OSF.IO/S5MTQ), [Preregistration](https://doi.org/10.17605/OSF.IO/MJXHD) and [Analysis Report](https://doi.org/10.17605/OSF.IO/647EX).
 - [Open GIScience Syllabus and Website](https://opengisci.github.io)
 
@@ -22,7 +22,7 @@ Follow collections of our work through our [HEGSRR GitHub Organization](https://
 
 Original Study | Level |	Pre-analysis |	Compendium |	Report |	Publication|
 --- | --- | --- | --- | --- | --- |
-| Malcomb et al 2014 | Undergraduate |	GitHub	| GitHub; OSF		| -- | -- |
+Malcomb et al 2014 | Undergraduate |	GitHub	| GitHub; OSF		| -- | -- |
 Kang et al 2020	|Undergraduate|	GitHub	|GitHub; OSF	|OSF	|*International Journal of Health Geographics* - In Review 
 Mollalo et al 2020|	Graduate|	GitHub	|GitHub; OSF	|GitHub	|*Geographical Analysis*
 Saffary et al 2020|	Graduate	|GitHub	|GitHub; OSF	|GitHub	|*Geographical Analysis*
